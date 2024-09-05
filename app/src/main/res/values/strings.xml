@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstHw</string>
+    <string name="sender_details">SENDER DETAILS</string>
+    <string name="eEmail">Email</string>
+    <string name="fName">Full Name</string>
+    <string name="cInformation">Contact Information</string>
+    <string name="eCountry">Country</string>
+    <string name="eAddress">Address</string>
+    <string name="btnNext">NEXT</string>
+    <string name="rDetails">RECIEVER DETAILS</string>
+    <string name="rInfo">Review Information</string>
+</resources>
